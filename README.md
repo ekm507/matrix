@@ -1,2 +1,2 @@
 # matrix
-use matrix to manipulate images-python
+use matrix to manipulate images
